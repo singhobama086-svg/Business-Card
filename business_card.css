@@ -1,0 +1,47 @@
+.card{
+
+    display: flex;
+    padding: 50px;
+    justify-content:center;
+    height:210px;
+    margin: 190px auto;
+    width: 550px;
+    text-align: center;
+    background: rgb(246, 246, 224);
+    
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img{
+    background: white;
+    width: 200px;
+    margin-left:95px;
+    margin-top: auto;
+    border-radius: 300px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.italian{
+    font-style:italic;
+}
+
+.border{
+    border: 3px dotted rgb(106, 150, 226);
+}
+
+.bdr{
+    border-bottom: 10px solid rgb(252, 166, 67);
+}
+
+.rain{
+    display:block;
+    margin-top: 30px;
+    width:300px;
+    height:200px;
+   
+}
